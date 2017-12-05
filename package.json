@@ -1,0 +1,25 @@
+{
+  "name": "tns-template-blank-vue",
+  "version": "0.0.1",
+  "description": "NativeScript Blank Template For Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhosseinab/tns-template-blank-vue.git"
+  },
+  "keywords": [
+    "nativescript",
+    "vue.js",
+    "template",
+	"tns"
+  ],
+  "author": "amirhosseinab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhosseinab/tns-template-blank-vue/issues"
+  },
+  "homepage": "https://github.com/amirhosseinab/tns-template-blank-vue#readme"
+}
