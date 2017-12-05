@@ -1,6 +1,6 @@
 {
   "name": "tns-template-blank-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NativeScript Blank Template For Vue.js",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "nativescript",
     "vue.js",
     "template",
-	"tns"
+    "tns"
   ],
   "author": "amirhosseinab",
   "license": "ISC",
